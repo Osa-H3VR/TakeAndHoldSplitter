@@ -1,0 +1,15 @@
+{
+  "name": "TakeAndHoldSplitter",
+  "authors": [
+    "Osa__PL"
+  ],
+  "guid": "Osa.TakeAndHoldSplitter",
+  "version": "0.1.0",
+  "require": "0.3.0",
+  "dependencies": {},
+  "assets": {
+    "setup": {
+      "Osa.TakeAndHoldSplitter.dll": "deli:assembly"
+    }
+  }
+}

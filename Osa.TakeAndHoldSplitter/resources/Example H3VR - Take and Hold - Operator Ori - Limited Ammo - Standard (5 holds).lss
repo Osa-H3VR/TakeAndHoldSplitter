@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>H3VR - Take and Hold</GameName>
+  <CategoryName>Operator Ori - Limited Ammo - Standard(5 holds)</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>11</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="05/01/2021 20:41:23" isStartedSynced="True" ended="05/01/2021 20:41:59" isEndedSynced="True">
+      <PauseTime>00:00:24.3050000</PauseTime>
+    </Attempt>
+    <Attempt id="2" started="05/01/2021 20:41:59" isStartedSynced="True" ended="05/01/2021 20:43:51" isEndedSynced="True">
+      <PauseTime>00:01:39.8050000</PauseTime>
+    </Attempt>
+    <Attempt id="3" started="05/01/2021 20:43:51" isStartedSynced="True" ended="05/01/2021 22:06:20" isEndedSynced="True">
+      <PauseTime>01:22:16.7840000</PauseTime>
+    </Attempt>
+    <Attempt id="4" started="05/01/2021 22:15:45" isStartedSynced="True" ended="05/01/2021 22:15:45" isEndedSynced="True" />
+    <Attempt id="5" started="05/01/2021 22:22:22" isStartedSynced="True" ended="05/01/2021 22:22:46" isEndedSynced="True">
+      <PauseTime>00:00:11.6770000</PauseTime>
+    </Attempt>
+    <Attempt id="6" started="05/01/2021 22:22:46" isStartedSynced="True" ended="05/01/2021 22:30:10" isEndedSynced="True">
+      <PauseTime>00:07:12.4160000</PauseTime>
+    </Attempt>
+    <Attempt id="7" started="05/01/2021 22:30:10" isStartedSynced="True" ended="05/01/2021 22:30:10" isEndedSynced="True" />
+    <Attempt id="8" started="05/01/2021 22:34:14" isStartedSynced="True" ended="05/01/2021 22:36:20" isEndedSynced="True" />
+    <Attempt id="9" started="05/01/2021 22:45:19" isStartedSynced="True" ended="05/01/2021 22:46:11" isEndedSynced="True" />
+    <Attempt id="10" started="05/01/2021 22:46:11" isStartedSynced="True" ended="05/01/2021 22:56:17" isEndedSynced="True">
+      <RealTime>00:10:06.0720000</RealTime>
+    </Attempt>
+    <Attempt id="11" started="05/01/2021 22:56:22" isStartedSynced="True" ended="05/01/2021 22:56:27" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Hold 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Hold 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Hold 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Hold 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Hold 5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
