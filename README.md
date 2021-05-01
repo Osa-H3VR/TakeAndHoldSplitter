@@ -7,7 +7,8 @@
 - A layout with LiveSplitServer component 
 
 ## Installation
-1. Just like any `.deli` mod, just put it into `H3VR/Deli/mods`
+1. Just like any `.deli` mod, just put it into `H3VR\Deli\mods`
+2. It should be working, but if you have a custom LiveSplit server setup, use `H3VR\Deli\configs\osa.takeandholdsplitter.cfg` to setup it correctly.
 
 ## Usage
 1. Add LiveSplitServer component to you Layout
