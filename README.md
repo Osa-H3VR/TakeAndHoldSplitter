@@ -1,10 +1,14 @@
-# Deli.ExampleMod
-This is an example mod for [Deli](https://github.com/Deli-Collective/Deli), a mod loading framework.
-This example demonstrates the basic usage of the mod manifest, entrypoint, asset readers and asset loaders.
+# TandAndHoldSplitter
 
-You'll find that creating plugins in this format is extremely similar to [BepInEx](https://github.com/BepInEx/BepInEx). A similar loading system is used, and Deli mods are
-passed BepInEx objects such as a config and log sources. If you're porting a BepInEx plugin to Deli, it shouldn't require many logical changes.
+## Requires:
+- LiveSplit with:
+  - LiveSplitServer component
+- A split file compatible with the forma (example is provided here)
+- A layout with LiveSplitServer component
 
-Once you're ready to test your mod, simply add all your assets into a directory and edit the manifest to include them. Before releasing,
-zip the contents of your directory and rename the zip file from `.zip` to `.deli`. For more details, see [the
-documentation](https://deli-collective.github.io/Deli/articles/preparing/index.html).
+## Installation
+1. Just like any `.deli` mod, just put it into `H3VR/Deli/mods`
+
+## Usage
+1. Add LiveSplitServer component to you Layout
+2. Use `Controls->Start server` to start the server before the run.
